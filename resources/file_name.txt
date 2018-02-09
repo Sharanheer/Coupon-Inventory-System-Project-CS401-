@@ -1,0 +1,8 @@
+groupon nike 100.0 10.0 60 Unused
+WorldFree armaniwatch 1000.0 20.0 30 unused
+gofree gucci 50.0 5.0 90 reedemed
+Uber subway 20.0 50.0 5 Unused
+Ubereats mcd 20.0 25.0 3 Unused
+BestBuy ipadfourmini 300.0 20.0 10 Unused
+Apple nike 50.0 20.0 60 Unused
+wecoupons grapes 10.0 2.0 8 Unused
